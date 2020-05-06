@@ -6,7 +6,6 @@ A simple Android Application which display countries with their capital. It is b
         <tr>
             <td><img src = "WhatsApp Image 2020-05-06 at 4.58.56 PM.jpeg" height = "480" width="270"></td>
            
-        </tr>
-        </table>
+      
 
 
